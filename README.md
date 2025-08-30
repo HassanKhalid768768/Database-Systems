@@ -208,5 +208,3 @@ Access the admin panel at: [http://localhost/Database-Systems/admin/](http://loc
     --secondary: #5D6BF8;
     --third: #e27fcb;
 }
-
----
